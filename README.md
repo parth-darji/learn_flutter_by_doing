@@ -1,4 +1,4 @@
-# learn_flutter_by_doing
+# Learn Flutter by Doing
 
 A new Flutter project.
 
